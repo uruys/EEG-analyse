@@ -1,4 +1,4 @@
-# eeg-neuroscience-analyse
+# EEG-analyse
 
 J’ai réalisé ce projet afin de mieux comprendre comment les signaux EEG peuvent être utilisés pour analyser l’activité cérébrale et détecter des anomalies comme les crises épileptiques.
 
